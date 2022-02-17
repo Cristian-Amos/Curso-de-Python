@@ -1,0 +1,1 @@
+open("/some/path/to/file.png")
